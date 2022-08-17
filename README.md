@@ -34,3 +34,7 @@ BEGIN
   END LOOP;
 END $$ ;
 ```
+Restore with psql
+```
+psql -d db_name -f path_to_backupfile
+```
