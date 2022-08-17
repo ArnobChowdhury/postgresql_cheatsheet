@@ -14,3 +14,5 @@ DELETE FROM your_table WHERE id BETWEEN bottom_value AND top_value;
 ```
 SELECT COUNT(*) FROM db_name;
 ```
+### POSTGRES TO JSON
+[DBA EXCHANGE] (https://dba.stackexchange.com/questions/90482/export-postgres-table-as-json)
