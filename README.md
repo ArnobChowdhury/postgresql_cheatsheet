@@ -1,3 +1,9 @@
+### Insert data to a table
+
+```
+INSERT INTO DB_NAME (cloumn, column ...) VALUES (VALUE, VALUE ...);
+```
+
 ### Swith database
 
 ```
